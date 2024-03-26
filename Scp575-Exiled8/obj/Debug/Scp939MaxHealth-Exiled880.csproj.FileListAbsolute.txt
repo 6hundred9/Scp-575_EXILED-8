@@ -1,0 +1,5 @@
+C:\Users\66hun\Documents\zKod\Scp939MaxHealth-Exiled880\Scp939MaxHealth-Exiled880\obj\Debug\Scp939MaxHealth-Exiled880.csproj.AssemblyReference.cache
+C:\Users\66hun\Documents\zKod\Scp939MaxHealth-Exiled880\Scp939MaxHealth-Exiled880\obj\Debug\Scp939MaxHealth-Exiled880.csproj.CoreCompileInputs.cache
+C:\Users\66hun\Documents\zKod\Scp939MaxHealth-Exiled880\Scp939MaxHealth-Exiled880\bin\Debug\Scp939MaxHealth-Exiled880.dll
+C:\Users\66hun\Documents\zKod\Scp939MaxHealth-Exiled880\Scp939MaxHealth-Exiled880\obj\Debug\Scp939MaxHealth-Exiled880.dll
+C:\Users\66hun\Documents\zKod\Scp939MaxHealth-Exiled880\Scp939MaxHealth-Exiled880\obj\Debug\Scp939MaxHealth-Exiled880.csproj.Fody.CopyLocal.cache
