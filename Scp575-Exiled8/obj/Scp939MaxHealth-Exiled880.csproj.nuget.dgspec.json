@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\66hun\\Documents\\zKod\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\66hun\\Documents\\zKod\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\66hun\\Documents\\zKod\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880.csproj",
+        "projectName": "Scp939MaxHealth-Exiled880",
+        "projectPath": "C:\\Users\\66hun\\Documents\\zKod\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880.csproj",
+        "packagesPath": "C:\\Users\\66hun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\66hun\\Documents\\zKod\\Scp939MaxHealth-Exiled880\\Scp939MaxHealth-Exiled880\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Users\\66hun\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\66hun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\66hun\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.8.0-alpha0098, )"
+            },
+            "EXILED": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
