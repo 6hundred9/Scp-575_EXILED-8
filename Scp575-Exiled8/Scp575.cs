@@ -19,7 +19,7 @@ namespace Scp575_Exiled8
         public override string Prefix => "575";
 
         public override Version Version => new Version(2, 1, 0);
-
+        public override Version RequiredExiledVersion { get; } = new Version(8, 8, 1);
         public static Scp575 Instance { get; set; } = null;
 
 
